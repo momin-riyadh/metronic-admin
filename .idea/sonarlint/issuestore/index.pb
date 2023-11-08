@@ -58,3 +58,11 @@ a
 1html/theme/demo1/dist/pages/profile/activity.html,8\f\8f869f2577f04aebbc874040f238d445c74a0411
 X
 (html/theme/demo1/dist/widgets/lists.html,6\4\6495af32a2852d4b80fc2aae9be8b0173a1ddbae
+m
+=html/theme/demo1/dist/authentication/flows/aside/sign-in.html,1\9\196af7c220706889f71b94bce908ae87360bc096
+t
+Dhtml/theme/demo1/dist/authentication/flows/aside/password-reset.html,3\f\3f7a741da5ff827e33a88d5c862af664b5cbd8ff
+m
+=html/theme/demo1/dist/authentication/flows/aside/sign-up.html,8\2\824d9b0f1596564979e61fecb4dbeaef4ec7d153
+m
+=html/theme/demo1/dist/authentication/flows/basic/sign-in.html,c\7\c77a001054149791a96ad5d41b74fe4f1d313752
