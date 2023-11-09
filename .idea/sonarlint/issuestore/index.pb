@@ -66,3 +66,11 @@ m
 =html/theme/demo1/dist/authentication/flows/aside/sign-up.html,8\2\824d9b0f1596564979e61fecb4dbeaef4ec7d153
 m
 =html/theme/demo1/dist/authentication/flows/basic/sign-in.html,c\7\c77a001054149791a96ad5d41b74fe4f1d313752
+a
+1html/theme/demo2/src/media/logos/logo-landing.svg,0\a\0a979caaa344d45e60c0a844711b24861c97b1ec
+R
+"html/theme/demo1/dist/landing.html,b\e\be915f98ce1f386ecb416fc9e23254f2b3c6c359
+i
+9html/theme/demo1/dist/assets/media/logos/logo-landing.svg,5\c\5cd4346241a5448741ff222d15cca565a8b830a1
+n
+>html/theme/demo1/dist/assets/media/logos/logo-landing-dark.svg,7\f\7f3a6f373dd5d8910f364ed718f39e15b5b95b68
